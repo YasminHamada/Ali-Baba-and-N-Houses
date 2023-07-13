@@ -1,5 +1,5 @@
 # Ali-Baba-and-N-Houses
-Description:
+# Description:
 Ali Baba has scoped out a line of N houses that you would like to rob tonight.  
 However, he is realized that he wants to avoid robbing two houses that are adjacent 
 to one another because this will minimize the chance that he gets caught. He has
